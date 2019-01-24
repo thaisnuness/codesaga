@@ -11,7 +11,7 @@ puts "Digite sua idade:"
 idade = gets.to_i
 
 puts "Seu nome é: #{nome}"
-puts "Sua idade é: #{idade}"
+puts "Sua idade é: #{idade} anos"
 
 if idade >= 18
   puts "Você esta apto a dirigir"
